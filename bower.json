@@ -1,0 +1,18 @@
+{
+  "name": "underscore_l",
+  "version": "1.0.Alpha1",
+  "license": "MIT",
+  "homepage": "dev.vnclip.info",
+  "authors": [
+    "VnClip.info Group"
+  ],
+  "description": "Underscore L JavaScript Library",
+  "main": "./underscore_l.js",
+  "keywords": [
+    "undercore l",
+    "undercore l library"
+  ],
+  "ignore": [
+    "bower_components"
+  ]
+}
