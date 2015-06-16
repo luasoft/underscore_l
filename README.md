@@ -21,8 +21,8 @@ console.log(max); // result: 8
 Example 2: Search smallest value in the array.
 ```sh
 var arr = [3, 0, -3, 0, 1, 8, 2, 4];
-var max = _l.min(arr);
-console.log(max); // result: 8
+var min = _l.min(arr);
+console.log(min); // result: -3
 ```
 
 
