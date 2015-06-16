@@ -1,3 +1,7 @@
+/*
+  Underscore L JavaScript library - 1.0.0-alpha.1
+  VnClip.info Group
+*/ 
 var _l = function(obj) {
   this.obj = obj;
 }
