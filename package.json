@@ -1,0 +1,20 @@
+{
+  "name": "underscore_l",
+  "version": "1.0.0-alpha.3",
+  "description": "Underscore L JavaScript Library",
+  "main": "underscore_l.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugeneware/angularjs.git"
+  },
+  "keywords": [
+    "javascript",
+    "underscore_l",
+    "underscore"
+  ],
+  "author": "VnClip Team <dev@vnclip.info>",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://vnclip.info/contact"
+  }
+}
