@@ -1,10 +1,10 @@
 {
   "name": "underscore_l",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "license": "MIT",
   "homepage": "dev.vnclip.info",
   "authors": [
-    "VnClip.info Group"
+    "VnClip.info Team"
   ],
   "description": "Underscore L JavaScript Library",
   "main": "./underscore_l.js",

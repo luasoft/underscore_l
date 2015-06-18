@@ -1,5 +1,5 @@
 /*
-  Underscore L JavaScript library - 1.0.0-alpha.2
+  Underscore L JavaScript library - 1.0.0-alpha.3
   VnClip.info Group
 */ 
 var _l = function(obj) {
@@ -7,7 +7,7 @@ var _l = function(obj) {
 }
 
 // Undercore L library version
-_l.VERSION = '1.0.0-alpha.2';
+_l.VERSION = '1.0.0-alpha.3';
 
 // return an element by index of an array
 _l.getElementByIndex = function(arr, index) {
@@ -59,7 +59,14 @@ _l.isObject = function(obj) {
   return ('object' === typeof obj);
 };
 
+// 
 _l.isArray = function(obj) {
   return ('[object Array]' === Object.prototype.toString.call(obj));
 };
+
+//
+_l.length = function(obj) {
+
+};
+
   
