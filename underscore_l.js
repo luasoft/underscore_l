@@ -7,7 +7,7 @@ var _l = function(obj) {
 }
 
 // Undercore L library version
-_l.VERSION = '1.0.alpha.2';
+_l.VERSION = '1.0.0-alpha.2';
 
 // return an element by index of an array
 _l.getElementByIndex = function(arr, index) {
